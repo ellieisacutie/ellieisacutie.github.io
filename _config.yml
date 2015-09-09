@@ -1,4 +1,4 @@
-title: Ellie is a perfect!
+title: Ellie is perfect!
 
 url: http://ellieisacutie.com
 baseurl: ""
@@ -12,5 +12,5 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
- - title: Reasons why
+ - title: Reasons Why
    url: /reasons.html

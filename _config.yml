@@ -1,34 +1,16 @@
-# Site settings
-title: Emerald | A simple Jekyll blog
-description: "A minimal blog template, build with Jekyll."
-url: "http://www.jacoporabolini.com/emerald"
-author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+title: Ellie is a perfect!
 
-# Build settings
-baseurl: /emerald/ # Change this to your relative path (ex: /blog/), or leave just a /
-markdown: kramdown
-source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
-paginate_path: /page:num/
+url: http://ellieisacutie.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
 
-# Default values
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+markdown: redcarpet
+highlighter: pygments
+paginate: 5
 
-# Custom variables
-version: "1.1.0"
-
-# Options
-custom_header: false
-custom_nav_footer: false
-reverse: false
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Reasons why
+   url: /reasons.html

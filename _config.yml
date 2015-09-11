@@ -11,8 +11,8 @@ paginate: 5
 
 navigation:
  - title: Home
-   url: /index.html
+   url: /
  - title: About
-   url: /about.html
- - title: Reasons Why
-   url: /reasons.html
+   url: /about
+ - title: Feelings and Remembrance
+   url: /blog

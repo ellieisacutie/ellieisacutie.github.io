@@ -2,6 +2,7 @@
 layout: post
 title: "Laying Awake"
 published: true
+title: "Laying Awake"
 ---
 
 <p>

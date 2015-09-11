@@ -2,6 +2,7 @@
 layout: post
 title: "An Idea Was Born"
 published: True
+title: "An Idea Was Born"
 ---
 
 <p> 

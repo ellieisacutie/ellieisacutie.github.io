@@ -2,6 +2,7 @@
 layout: post
 title: "You're So Modest"
 published: true
+title: "You're So Modest"
 ---
 
 <p>
